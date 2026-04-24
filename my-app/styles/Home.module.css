@@ -42,15 +42,15 @@
 }
 
 .button {
-  border-radius: 4px;
-  background-color: purple;
+  border-radius: 8px;
+  background: linear-gradient(135deg, #6a11cb, #2575fc);
   border: none;
   color: #ffffff;
   font-size: 15px;
-  padding: 5px;
-  width: 100px;
+  padding: 8px;
+  width: 120px;
   cursor: pointer;
-  margin: 2%;
+  margin: 6px;
 }
 
 .inputDiv {
