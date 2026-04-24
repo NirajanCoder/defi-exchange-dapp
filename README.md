@@ -102,27 +102,5 @@ This project is for educational purposes.
 
 ---
 
-# ✅ HOW TO USE (quick)
-
-1. Go to your GitHub repo  
-2. Click **README.md → Edit (✏️)**  
-3. Replace everything  
-4. Click **Commit changes**
-
----
-
-# 🚀 OPTIONAL (to make it even better)
-
-Add:
-- Screenshot (very important for marks)
-- Demo GIF (bonus)
-- Star badge ⭐
-
----
-
-If you want, I can:
-👉 add screenshot section properly  
-👉 make this README **top-tier portfolio level**  
-
-Just tell me 👍
-
+Author
+NirajanCoder
